@@ -3,6 +3,7 @@
 
 - Este repositório contém todos os meus progressos na etapa de imersão do seletivo da empresa Phoebus Tecnologia.
 - Provavelmente você encontrará erros (fique a vontade pra criar forks e contribuir com meu estudo), pois estou em processo de formação.
+- Todo o conteúdo deste repositório é usado apenas para fim educacional.
 
 
 ## Daily
