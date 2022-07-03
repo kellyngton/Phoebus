@@ -1,0 +1,19 @@
+Roteiro apresentação PHOEBUS
+
+conteúdos 
+
+oque fiz 
+- git - git flow
+
+- angular 9
+	serviço delete + tratamento
+	||
+	-rxjs  .pipe .map .filter
+-rxjs padrão Observabe  
+
+-compodoc
+	-overview 
+	-serviço delete + tratamento 
+
+
+
