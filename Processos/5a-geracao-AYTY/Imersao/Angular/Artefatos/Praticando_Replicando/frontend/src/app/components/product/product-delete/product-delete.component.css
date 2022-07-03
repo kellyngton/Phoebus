@@ -1,0 +1,13 @@
+.title{
+    color:rgb(252, 54, 54);
+}
+.form{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column ;
+    flex-wrap: wrap;
+}
+button{
+    /* sentido horário, começando em cima '12 horas' */
+    margin: 10px 10px 0px 0px; 
+}

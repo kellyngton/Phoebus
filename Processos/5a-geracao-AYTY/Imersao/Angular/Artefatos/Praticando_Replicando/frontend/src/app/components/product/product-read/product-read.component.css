@@ -1,0 +1,13 @@
+table{
+    width: 100%;
+}
+.edit{
+    margin-right: 5px;
+}
+
+.delete{
+    color:rgb(252, 54, 54);
+}
+.edit{
+    color: rgb(218, 204, 8);
+}

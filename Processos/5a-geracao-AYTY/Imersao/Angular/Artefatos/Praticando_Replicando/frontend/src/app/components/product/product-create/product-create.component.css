@@ -1,0 +1,10 @@
+form{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;   
+}
+
+button{
+    /* sentido horário, começando em cima '12 horas' */
+    margin: 15px 15px 0px 0px; 
+}

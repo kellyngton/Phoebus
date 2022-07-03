@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Teclado gamer",
+      "price": "200.80",
+      "id": 7
+    },
+    {
+      "name": "Mouse Gamer",
+      "price": "120",
+      "id": 8
+    },
+    {
+      "name": "Notebook dell gamining 5760",
+      "price": "2800",
+      "id": 9
+    },
+    {
+      "name": "Estabilizador",
+      "price": "120.90",
+      "id": 10
+    },
+    {
+      "name": "iphone 11",
+      "price": "3400.90",
+      "id": 11
+    }
+  ]
+}
