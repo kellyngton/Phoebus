@@ -7,11 +7,16 @@
 
 
 ## Daily
-* [O que foi feito?](https://github.com/kellyngton/Phoebus/blob/master/Processos/5a-geracao-AYTY/Imersao/Git%20-%20Git%20flow/Material/git-flow-schematic.docx)
-  * Finalizado leitura dos fluxos de trabalho no git e realizado práticas. 
-* [O que estou fazendo?](https://www.cod3r.com.br/courses/angular-9-essencial)
-  * Finalizar curso de Angular essencial (75% feito) + pequeno projeto. 
-* [O que vou fazer?](https://university.mongodb.com/courses/M001/about)
-  * Iniciar estudos de Banco de dados.  
+* [O que foi feito?](https://github.com/Imersao-Phoebus/codigo-capacitacao-kellyngton)
+  * Artefato Angualar 9. 
+  * Spring boot: estudo API
+  * Spring boot: CRUD usando camadas MVC (Aplicação monolítica) 
+  * MongoDB, pequeno CRUD, TTL operators
+* [O que estou fazendo?](https://github.com/Imersao-Phoebus/codigo-capacitacao-kellyngton/tree/main/Spring%20Boot)
+  * Testes no monólito 
+  
+* [O que vou fazer?]()
+  * Gerando documentação e teste no angular  (Dívida técnica)
+  
 
 # **Readme em contrução...**
